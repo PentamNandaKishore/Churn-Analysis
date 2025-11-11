@@ -1,4 +1,4 @@
-# Title
+## Title
 Customer Churn Analysis
 
 ## Objective
@@ -27,3 +27,10 @@ The dataset includes information about customers’ subscriptions and service us
 - Non-churners with tech support had low ticket usage (0.18) and moderate pricing ($80.04)
 - Monthly churners tend to pay higher prices, with an average monthly charge of $66.40.
 - Overall, monthly customers may perceive poor support and network value, which, combined with higher charges, contributes to higher churn.
+
+<img width="1097" height="616" alt="Churn_report" src="https://github.com/user-attachments/assets/00d75b64-7ea9-429f-9207-853a2b91bf74" />
+<img width="825" height="633" alt="Why Churner_price_High" src="https://github.com/user-attachments/assets/b12e606b-1fe3-4040-9c9e-f62b11995b6f" />
+<img width="1083" height="380" alt="Reasons_For_Churn" src="https://github.com/user-attachments/assets/7aefa330-a1d0-4025-bb6a-e7ea367e4fd5" />
+
+
+
